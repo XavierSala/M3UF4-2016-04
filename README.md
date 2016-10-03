@@ -1,4 +1,4 @@
-El Déu qui els va 
+El Déu qui els va escollir
 ===========================
 Un grup de monjos en el seu camí de peregrinatge cap a la seva muntanya sagrada es troben bloquejats en un port pendents d'aconseguir pujar al vaixell «Autopista» que els ha de portar fins al seu destí.
 
