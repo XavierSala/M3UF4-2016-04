@@ -10,7 +10,7 @@ Com que són monjos, no poden solucionar el problema fent servir la violència (
 
 *“Al cap i a la fi serà Déu el que decidirà qui pot anar amb el vaixell i qui no”*
 
-El joc consistirà en posar-se en rotllana on cada monjo tindrà cinc pedres de colors. 
+El joc consistirà en posar-se en rotllana on cada monjo tindrà cinc pedres de colors i deixarà els diners que porta al mig. 
 
 Quan tot estigui preparat: 
 * Cada monjo agafarà amb la mà esquerra (la més propera al cor) el número de les pedres que
@@ -22,4 +22,11 @@ vulgui
 ![Joc de monjos](imatges/joc-monjos.png)
 
 Desenvolupeu el programa que permeti definir el preu del bitllet del vaixell i a partir de la quantitat de diners que portin els monjos fer el «joc» per decidir quins són els afortunats
+
+El programa haurà de determinar: 
+* Quant val el bitllet de vaixell
+* Quants monjos hi ha (cada monjo portarà una quantitat aleatòria de diners)
+
+
+
 
